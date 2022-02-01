@@ -156,6 +156,14 @@ body{
     font-weight: 500;
     text-align: left;
 }
+.dragmob__heading1{
+    margin-bottom: 10px;
+    font-family: Productsans, sans-serif;
+    color: #31bfae;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+}
 .easily__heading2{
     padding-top: 15px;
     padding-bottom: 15px;
@@ -165,6 +173,17 @@ body{
     line-height: 48px;
     font-weight: 700;
     text-align: left;
+}
+.dragmob__heading2{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: Productsans, sans-serif;
+    color: #fff;
+    font-size: 42px;
+    line-height: 48px;
+    font-weight: 700;
+    text-align: left;
+    width: 119%;
 }
 .easily__heading3{
     padding-top: 15px;
@@ -226,4 +245,67 @@ body{
     background-repeat: repeat-x;
     background-size: cover;
     margin-bottom: -245px;
+}
+.drag-mob{
+    padding: 50px 134px;
+    background-color: #393639;
+    display: flex;
+}
+.dragmob__div1{
+    margin-left: 113px;
+    margin-top: 90px;
+}
+.dragmob__para{
+    color: hsla(0, 0%, 100%, 0.8);
+    margin-bottom: 30px;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    font-family: Productsans, sans-serif;
+    width: 111%;
+}
+.unlimited{
+    padding: 80px 134px 50px 144px;
+    background-color: #14181b;
+}
+.unlimited__para1{
+    margin-bottom: 30px;
+    font-family: Productsans, sans-serif;
+    color: #95a1ac;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: 0.3px;
+    width: 78%;
+}
+.unlimited__para2{
+    margin-bottom: 25px;
+    font-family: Productsans, sans-serif;
+    color: #95a1ac;
+    font-size: 16px;
+    text-align: left;
+    margin: 0 20px;
+}
+.unlimited-section-images{
+    width: 345px;
+    height: 318px;
+}
+.unlimited-section-div{
+    width: 346px;
+    height: 470px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #14181b;
+    border-radius: 8px;
+    background-color: #090f13;
+    box-shadow: -1px -1px 3px 0 rgb(66 78 90 / 50%), 2px 2px 8px 7px rgb(0 0 0 / 35%), 1px 1px 4px 0 rgb(9 15 19 / 45%);
+}
+.unlimited__heading{
+    margin-bottom: 10px;
+    font-family: Productsans, sans-serif;
+    color: #fff;
+    margin-left: 20px;
+    font-size: 24px;
+    line-height: 30px;
+    margin-top: 20px;
+    font-weight: bold;
 }
